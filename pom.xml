@@ -31,7 +31,7 @@
                     <!-- Specify the main class to be executed -->
                     <archive>
                         <manifestEntries>
-                            <Main-Class>com.example.Main</Main-Class> <!-- Replace with your actual main class -->
+                            <Main-Class>org.example.Main</Main-Class> <!-- Replace with your actual main class -->
                         </manifestEntries>
                     </archive>
                 </configuration>
